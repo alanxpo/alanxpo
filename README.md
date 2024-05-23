@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Alan Muro
 
 # 💫 About Me:
-🔭 I’m currently studying Systems Engineering
+🔭 Computer Systems Engineer
 
 
 # 💻 Tech Stack:
